@@ -1,0 +1,8 @@
+body{
+  background-color: green;
+}
+
+.square{
+  display: inline-grid;
+  padding: 30px;
+}
